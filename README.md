@@ -54,7 +54,7 @@ int main(void)
 ![image](https://github.com/VanHuyTran24/STM32F103-LCD-HD44780-FULL-CONNECTION/assets/166670555/bfff8c71-8ed3-4464-b153-cf9a9914c31e)
 
 ## CGRAM Creating custom character
-![image](https://github.com/VanHuyTran24/STM32F103-LCD-HD44780-FULL-CONNECTION/assets/166670555/fafd4aef-3297-4fd5-8350-d84168f7a69f)
+![image](https://github.com/VanHuyTran24/STM32F103-LCD-HD44780-FULL-CONNECTION/assets/166670555/fe9bb5f3-4007-450b-b43c-f2328796da37)
 
 ## Library
 Download Library File (.c) from [here](https://github.com/VanHuyTran24/STM32F103-LCD-HD44780-FULL-CONNECTION/blob/master/Program_KeilC/MDK-ARM/TranVanHuy_LCD.c)
